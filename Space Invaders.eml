@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Space Invaders"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/report"/>
+	</contentEntry>
+	<levels>
+		<level name="core" value="project"/>
+		<level name="processing_gui" value="project"/>
+	</levels>
+</component>

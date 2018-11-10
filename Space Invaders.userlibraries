@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="core">
+    <archive path="C:/Users/Craig/Documents/IntelliJ Projects/Final Version/Space Invaders/libs/core.jar" />
+  </library>
+  <library name="processing_gui">
+    <archive path="C:/Users/Craig/Documents/IntelliJ Projects/Final Version/Space Invaders/libs/processing_gui.jar" />
+  </library>
+</eclipse-userlibraries>
+

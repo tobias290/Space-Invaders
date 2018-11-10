@@ -17,6 +17,7 @@ This game was implemented using the [Processing][0] library.
 
 ![Mid Game](resources/images/examples/Mid%20Game.png)
 
+#
 
 Created with [Craig Hughes][0]
 

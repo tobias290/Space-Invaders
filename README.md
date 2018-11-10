@@ -19,6 +19,6 @@ This game was implemented using the [Processing][0] library.
 
 #
 
-Created with [Craig Hughes][0]
+Created with [Craig Hughes][1]
 
-[0]: https://github.com/craigmhughes
+[1]: https://github.com/craigmhughes
